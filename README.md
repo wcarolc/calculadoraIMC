@@ -4,6 +4,8 @@ Esse repositório tem um código para cálculo do IMC (Índice de Massa Corporal
 
 O código foi desenvolvido utilizando apenas **HTML**, **CSS** e **JavaScript**, garantindo uma experiência **totalmente responsiva**. Para aprimorar o design, utilizei recursos de sites como **FontAwesome** para ícones, **unDraw** para ilustrações e **Google Fonts** para tipografia.
 
+<img src="assets/images/print-calculadoraIMC.jpg" alt="Captura de Tela - Calculadora IMC">
+
 ### Repositório Criado por
 
 - **Maria Carolina**
